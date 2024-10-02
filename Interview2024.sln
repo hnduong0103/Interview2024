@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interview2024", "Interview2024\Interview2024.csproj", "{4A55977F-E29D-41CB-91D4-123BE257D339}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CombineCandleProblemTests", "CombineCandleProblemTests\CombineCandleProblemTests.csproj", "{3BA5BB43-025F-4878-9318-B57CE0FE0397}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A55977F-E29D-41CB-91D4-123BE257D339}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A55977F-E29D-41CB-91D4-123BE257D339}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A55977F-E29D-41CB-91D4-123BE257D339}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A55977F-E29D-41CB-91D4-123BE257D339}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BA5BB43-025F-4878-9318-B57CE0FE0397}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BA5BB43-025F-4878-9318-B57CE0FE0397}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BA5BB43-025F-4878-9318-B57CE0FE0397}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BA5BB43-025F-4878-9318-B57CE0FE0397}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C4CF122-DD4D-4D50-AF1A-04BA3C56EAAC}
+	EndGlobalSection
+EndGlobal
